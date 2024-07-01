@@ -1,4 +1,4 @@
-# Online Book Review Server-Side Application
+# Book Review Application
 
 ## Getting Started
 
